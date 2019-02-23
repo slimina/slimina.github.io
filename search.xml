@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
+    <title><![CDATA[起点]]></title>
     <url>%2Funcategorized%2F2019%2F02%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[新的一年伊始，从北京转站上海已经4-5个月了，从不适应，到抑郁，直至认真工作、安心撸码。一个崭新的开始，一段未知的起航，一曲高亢的骊歌，也给自己一个新的寄托。之前一直在CSDN记录自己的学习历程，有辛也有兴，这次辗转github，不仅仅是新的开始，也想对自己的输出，给一个质的把控。 个人CSDN博客：https://blog.csdn.net/zhu_tianwei]]></content>
   </entry>
 </search>
