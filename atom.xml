@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://b.5200.ink/"/>
-  <updated>2019-02-23T07:26:03.000Z</updated>
+  <updated>2019-02-24T06:56:39.000Z</updated>
   <id>http://b.5200.ink/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>分布式36技-缓冲</title>
+    <link href="http://b.5200.ink/%E6%9E%B6%E6%9E%84/2019/02/distributed-high-concurrency-cache/"/>
+    <id>http://b.5200.ink/架构/2019/02/distributed-high-concurrency-cache/</id>
+    <published>2019-02-24T06:41:24.000Z</published>
+    <updated>2019-02-24T06:56:39.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;对于高并发来说，目前大部分的瓶颈在数据库层面（在系统设计方面需要考虑弹性扩展），缓存可谓是不二银弹。当下缓存主要是redis和memcache，出于redis的丰富的数据类型、可用性【master-salve，proxy，Sentinel，cluster】及性能等，备受互联
+        
+      
+    
+    </summary>
+    
+      <category term="架构" scheme="http://b.5200.ink/categories/%E6%9E%B6%E6%9E%84/"/>
+    
+    
+      <category term="架构" scheme="http://b.5200.ink/tags/%E6%9E%B6%E6%9E%84/"/>
+    
+      <category term="分布式" scheme="http://b.5200.ink/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+      <category term="高并发" scheme="http://b.5200.ink/tags/%E9%AB%98%E5%B9%B6%E5%8F%91/"/>
+    
+      <category term="缓冲" scheme="http://b.5200.ink/tags/%E7%BC%93%E5%86%B2/"/>
+    
+  </entry>
   
   <entry>
     <title>起点</title>

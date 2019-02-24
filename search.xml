@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[分布式36技-缓冲]]></title>
+    <url>%2F%E6%9E%B6%E6%9E%84%2F2019%2F02%2Fdistributed-high-concurrency-cache%2F</url>
+    <content type="text"><![CDATA[对于高并发来说，目前大部分的瓶颈在数据库层面（在系统设计方面需要考虑弹性扩展），缓存可谓是不二银弹。当下缓存主要是redis和memcache，出于redis的丰富的数据类型、可用性【master-salve，proxy，Sentinel，cluster】及性能等，备受互联网公司的依赖。下面主要结合springboot介绍一下常见使用方式。 1.spring cache2.springboot集成3.cache组件化4.组件应用5.思考]]></content>
+      <categories>
+        <category>架构</category>
+      </categories>
+      <tags>
+        <tag>架构</tag>
+        <tag>分布式</tag>
+        <tag>高并发</tag>
+        <tag>缓冲</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[起点]]></title>
     <url>%2Funcategorized%2F2019%2F02%2Fhello-world%2F</url>
     <content type="text"><![CDATA[新的一年伊始，从北京转站上海已经4-5个月了，从不适应，到抑郁，直至认真工作、安心撸码。一个崭新的开始，一段未知的起航，一曲高亢的骊歌，也给自己一个新的寄托。之前一直在CSDN记录自己的学习历程，有辛也有兴，这次辗转github，不仅仅是新的开始，也想对自己的输出，给一个质的把控。 个人CSDN博客：https://blog.csdn.net/zhu_tianwei]]></content>
