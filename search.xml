@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[分布式36技-缓冲]]></title>
     <url>%2F%E6%9E%B6%E6%9E%84%2F2019%2F02%2Fdistributed-high-concurrency-cache%2F</url>
-    <content type="text"><![CDATA[对于高并发来说，目前大部分的瓶颈在数据库层面（在系统设计方面需要考虑弹性扩展），缓存可谓是不二银弹。当下缓存主要是redis和memcache，出于redis的丰富的数据类型、可用性【master-salve，proxy，Sentinel，cluster】及性能等，备受互联网公司的依赖。下面主要结合springboot介绍一下常见使用方式。 1.spring cache2.springboot集成3.cache组件化4.组件应用5.思考]]></content>
+    <content type="text"><![CDATA[对于高并发来说，目前大部分的瓶颈在数据库层面（在系统设计方面需要考虑弹性扩展），缓存可谓是不二银弹。当下缓存主要是redis和memcache，出于redis的丰富的数据类型、可用性【master-salve，proxy，Sentinel，cluster】及性能等，备受互联网公司的青睐。下面主要结合springboot介绍一下常见使用方式。 1.spring cache2.springboot集成3.cache组件化4.组件应用5.思考]]></content>
       <categories>
         <category>架构</category>
       </categories>
